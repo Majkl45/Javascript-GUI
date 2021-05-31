@@ -1,4 +1,3 @@
 # Javascript-GUI
-
-Naistalovat electron --> npm install electron
-start GUI --> npm start
+#Naistalovat electron --> npm install electron
+#GUI start --> npm start
